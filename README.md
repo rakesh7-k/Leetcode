@@ -63,4 +63,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2562-find-the-array-concatenation-value](https://github.com/rakesh7-k/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rakesh7-k/Leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rakesh7-k/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rakesh7-k/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rakesh7-k/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rakesh7-k/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rakesh7-k/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
