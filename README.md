@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rakesh7-k/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/rakesh7-k/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2751-robot-collisions](https://github.com/rakesh7-k/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rakesh7-k/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/rakesh7-k/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/rakesh7-k/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/rakesh7-k/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2751-robot-collisions](https://github.com/rakesh7-k/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rakesh7-k/Leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rakesh7-k/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rakesh7-k/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rakesh7-k/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2751-robot-collisions](https://github.com/rakesh7-k/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rakesh7-k/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rakesh7-k/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Enumeration
@@ -160,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/rakesh7-k/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2751-robot-collisions](https://github.com/rakesh7-k/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
