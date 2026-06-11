@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rakesh7-k/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rakesh7-k/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Tree
