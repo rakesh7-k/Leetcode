@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rakesh7-k/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rakesh7-k/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rakesh7-k/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1345-jump-game-iv](https://github.com/rakesh7-k/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rakesh7-k/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rakesh7-k/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rakesh7-k/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rakesh7-k/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rakesh7-k/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rakesh7-k/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/rakesh7-k/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rakesh7-k/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rakesh7-k/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rakesh7-k/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
