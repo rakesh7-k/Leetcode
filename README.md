@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/rakesh7-k/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/rakesh7-k/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/rakesh7-k/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rakesh7-k/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rakesh7-k/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/rakesh7-k/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/rakesh7-k/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/rakesh7-k/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/rakesh7-k/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rakesh7-k/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/rakesh7-k/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
