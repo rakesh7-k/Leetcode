@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3614-process-string-with-special-operations-ii](https://github.com/rakesh7-k/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rakesh7-k/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/rakesh7-k/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/rakesh7-k/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3742-maximum-path-score-in-a-grid](https://github.com/rakesh7-k/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rakesh7-k/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/rakesh7-k/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/rakesh7-k/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
