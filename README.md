@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/rakesh7-k/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/rakesh7-k/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rakesh7-k/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rakesh7-k/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh7-k/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakesh7-k/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rakesh7-k/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/rakesh7-k/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh7-k/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/rakesh7-k/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rakesh7-k/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rakesh7-k/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rakesh7-k/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rakesh7-k/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/rakesh7-k/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh7-k/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/rakesh7-k/Leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rakesh7-k/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh7-k/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rakesh7-k/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh7-k/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
