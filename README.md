@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rakesh7-k/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/rakesh7-k/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/rakesh7-k/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/rakesh7-k/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/rakesh7-k/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rakesh7-k/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/rakesh7-k/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/rakesh7-k/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0061-rotate-list](https://github.com/rakesh7-k/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/rakesh7-k/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/rakesh7-k/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/rakesh7-k/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/rakesh7-k/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/rakesh7-k/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/rakesh7-k/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0414-third-maximum-number](https://github.com/rakesh7-k/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
