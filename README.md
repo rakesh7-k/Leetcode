@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh7-k/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/rakesh7-k/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/rakesh7-k/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/rakesh7-k/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rakesh7-k/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/rakesh7-k/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/rakesh7-k/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/rakesh7-k/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rakesh7-k/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rakesh7-k/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/rakesh7-k/Leetcode/tree/main/0148-sort-list/) | Medium |
