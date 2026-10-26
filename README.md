@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/rakesh7-k/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rakesh7-k/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rakesh7-k/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0169-majority-element](https://github.com/rakesh7-k/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/rakesh7-k/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rakesh7-k/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh7-k/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/rakesh7-k/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rakesh7-k/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/rakesh7-k/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/rakesh7-k/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh7-k/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh7-k/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh7-k/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/rakesh7-k/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/rakesh7-k/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/rakesh7-k/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/rakesh7-k/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh7-k/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/rakesh7-k/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/rakesh7-k/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -449,10 +452,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/rakesh7-k/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/rakesh7-k/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rakesh7-k/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/rakesh7-k/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh7-k/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/rakesh7-k/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/rakesh7-k/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -569,4 +574,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rakesh7-k/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/rakesh7-k/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
