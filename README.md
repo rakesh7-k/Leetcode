@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/rakesh7-k/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh7-k/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/rakesh7-k/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/rakesh7-k/Leetcode/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rakesh7-k/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/rakesh7-k/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh7-k/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/rakesh7-k/Leetcode/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
