@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/rakesh7-k/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/rakesh7-k/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/rakesh7-k/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/rakesh7-k/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/rakesh7-k/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rakesh7-k/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh7-k/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/rakesh7-k/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rakesh7-k/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/rakesh7-k/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/rakesh7-k/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/rakesh7-k/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh7-k/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh7-k/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh7-k/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/rakesh7-k/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rakesh7-k/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/rakesh7-k/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/rakesh7-k/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -586,4 +590,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rakesh7-k/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
