@@ -612,4 +612,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rakesh7-k/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/rakesh7-k/Leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
